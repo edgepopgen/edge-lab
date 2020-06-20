@@ -6,32 +6,40 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+<h2><b>Joining the Lab</b></h2>
 
-We are always looking for new group members with passion, talent, and grit!
+We’re glad you’re interested in our research! Our group exists to train people to study genetics---especially evolutionary genetics, which is one of the most exciting areas of science---using quantitative approaches. Training in the lab happens primarily via research projects. Trainees carry out original research and present it in the form of publications, software/scripts, talks to scientific audiences, and outreach to diverse audiences and the general public wherever appropriate. 
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+Lab members may come from a variety of backgrounds. As part of their work in the lab, lab members write code and/or do math (mostly probability, stochastic processes, calculus, matrix algebra, and statistics). They also analyze genetic datasets. However, one doesn’t need to know how to do all these things upon joining the lab; one of the main goals of time spent in the lab is to learn the relevant skills. 
 
-### Current open positions
+You can read about our lab culture and policies [here]({{site.url}}{{site.baseurl}}/culture) 
 
-You find the current job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
+<br>
 
-It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf).
+<b>Postdoctoral researchers:</b> We are currently hiring postdocs. Remote work is expected during the current COVID-19 pandemic and negotiable afterward. Start date is flexible after August 16th, with earlier dates preferred. If you are interested in a postdoctoral position in the lab, please <a href = "mailto: edgem@usc.edu">send Doc an email</a> briefly describing your past experience and current research interests. Please attach a CV with a list of references, as well as any recent work you’d like to share. 
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+<b>PhD students:</b> People interested in doing a PhD in the lab should apply to USC’s Computational Biology and Bioinformatics (CBB) program. During the first year of the program, students complete coursework in algorithms, statistics, and biology, and they also complete research rotations in up to three CBB-affiliated labs. Students interested in completing a PhD in the lab should arrange to do one of their rotations with us. CBB admissions are handled by the admissions committee and not by individual labs, but feel free to <a href = "mailto: edgem@usc.edu">contact Doc</a> with questions or statements of interest.
 
-There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
+<b>Undergraduates, Master’s students, and others:</b> USC undergraduates interested in joining the lab should <a href = "mailto: edgem@usc.edu">write to Doc</a>  with a CV, relevant course history, and statement of interest. We’ll arrange to meet and talk about available projects in the lab. QBIO undergraduates can apply to conduct honors thesis research in the lab. In cases of a compelling research fit, undergraduates or master’s students at other institutions may be able to arrange for paid summer or remote internships.
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+
+<br>
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/zoom.jpg" width="65%"></center>
 </figure>
+
+<br>
+
+
+<figure>
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/collage.jpg" width="70%"></center>
+</figure>
+
+
+
+
+
+

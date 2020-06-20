@@ -6,20 +6,29 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+<h3><b>Research</b></h3>
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Lab members use mathematical modeling, computational approaches, statistical method development, and data analysis to answer important biological questions. 
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+One major interest of the lab is the evolution of complex traits---traits that are influenced by many genes, the environment, and their interaction. We consider the role of evolutionary-genetic forces in shaping trait variation and in creating the genotype--phenotype associations detected in genome-wide association studies (GWAS). One goal of this research is to improve methods to detect and interpret trait-associated genetic variation.
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+We are also interested in intersections of population genetics with questions of broader societal importance, such as genetic privacy and forensic genetics. We collaborate and consult with experts in other fields to pursue these questions, including legal experts, philosophers, and social scientists.
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+<br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+<h4><b>Selected Press Coverage</b></h4>
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+[Genetic privacy attack could reveal DNA secrets from genealogy sites.](https://www.newscientist.com/article/2221138-genetic-privacy-attack-could-reveal-dna-secrets-from-genealogy-sites/) Adam Vaughan, New Scientist, October 24th, 2019.
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+​
+[DNA ancestry searches can now identify most white Americans, Here's why that's legally questionable.](https://www.pbs.org/newshour/science/dna-ancestry-searches-can-now-identify-most-white-americans-heres-why-thats-legally-questionable) Nsikan Akpan, PBS Newshour, October 12th, 2018.
+
+​[The method that snared the Golden State Killer could find more than half of Americans from their DNA.](https://www.buzzfeednews.com/article/peteraldhous/genealogy-forensic-dna-cold-cases-privacy) Peter Aldhous, Buzzfeed News, October 11th, 2018.
+
+​[Genome hackers show no one's DNA is anonymous anymore.](https://www.wired.com/story/genome-hackers-show-no-ones-dna-is-anonymous-anymore/) Megan Molteni, Wired, October 11th, 2018.
+
+[DNA websites cast a broad net for identifying people.](https://www.businessinsider.com/ap-study-dna-websites-cast-broad-net-for-identifying-people-2018-10?r=UK&IR=T) Malcolm Ritter, Associated Press, October 11th, 2018.
+
+​[Genetic privacy and the case of the Golden State Killer.](https://geneticliteracyproject.org/2018/05/01/genetic-privacy-and-the-case-of-the-golden-state-killer-diving-into-the-science/) Ricki Lewis, Genetic Literacy Project, May 1st, 2018.
+
+<br>
