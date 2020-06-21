@@ -28,16 +28,18 @@ You can read about our lab culture and policies [here]({{site.url}}{{site.baseur
 
 
 <figure>
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/zoom.jpg" width="65%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/zoom.jpg" width="60%"></center>
 </figure>
 
 <br>
+<br>
 
 
+<center><h3><b>Come join us in Los Angeles!</b></h3></center>
 <figure>
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/collage.jpg" width="70%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/collage.jpg" width="65%"></center>
 </figure>
-
+<br>
 
 
 
