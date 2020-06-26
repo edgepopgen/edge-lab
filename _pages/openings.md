@@ -6,14 +6,26 @@ sitemap: false
 permalink: /vacancies
 ---
 
+
+
+
 <h2><b>Joining the Lab</b></h2>
 
-We’re glad you’re interested in our research! Our group exists to train people to study genetics---especially evolutionary genetics, which is one of the most exciting areas of science---using quantitative approaches. Training in the lab happens primarily via research projects. Trainees carry out original research and present it in the form of publications, software/scripts, talks to scientific audiences, and outreach to diverse audiences and the general public wherever appropriate. 
+
+
+  <img src="{{ site.url }}{{ site.baseurl }}/images/collage.jpg" class="img-responsive" width="30%" style="float: right; margin-left:50px;"/>
+
+We’re glad you’re interested in our research! Our group exists to train people to study genetics, especially evolutionary genetics, which is one of the most exciting areas of science---using quantitative approaches. Training in the lab happens primarily via research projects. Trainees carry out original research and present it in the form of publications, software/scripts, talks to scientific audiences, and outreach to diverse audiences and the general public wherever appropriate. 
 
 Lab members may come from a variety of backgrounds. As part of their work in the lab, lab members write code and/or do math (mostly probability, stochastic processes, calculus, matrix algebra, and statistics). They also analyze genetic datasets. However, one doesn’t need to know how to do all these things upon joining the lab; one of the main goals of time spent in the lab is to learn the relevant skills. 
 
 You can read about our lab culture and policies [here]({{site.url}}{{site.baseurl}}/culture) 
 
+
+
+
+<br>
+<br>
 <br>
 
 <b>Postdoctoral researchers:</b> We are currently hiring postdocs. Remote work is expected during the current COVID-19 pandemic and negotiable afterward. Start date is flexible after August 16th, with earlier dates preferred. If you are interested in a postdoctoral position in the lab, please <a href = "mailto: edgem@usc.edu">send Doc an email</a> briefly describing your past experience and current research interests. Please attach a CV with a list of references, as well as any recent work you’d like to share. 
@@ -25,21 +37,14 @@ You can read about our lab culture and policies [here]({{site.url}}{{site.baseur
 
 
 <br>
-
-
+<br>
+<center><h4><b>Zoom lab meeting in the time of COVID-19</b></h4></center>
 <figure>
 <center><img src="{{ site.url }}{{ site.baseurl }}/images/zoom.jpg" width="60%"></center>
 </figure>
 
 <br>
-<br>
 
-
-<center><h3><b>Come join us in Los Angeles!</b></h3></center>
-<figure>
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/collage.jpg" width="65%"></center>
-</figure>
-<br>
 
 
 
