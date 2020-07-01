@@ -7,6 +7,7 @@ permalink: /team/
 ---
 
 
+<br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:70px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/edge.png" class="img-responsive" width="25%" style="float: left" />
@@ -20,7 +21,7 @@ permalink: /team/
 <br>
 <br>
 <br>
-
+<br>
 
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">

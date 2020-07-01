@@ -11,7 +11,7 @@ permalink: /publications/
 
 <h3><b>Book</b></h3>
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/StatThinking.jpg" class="img-responsive" width="18%" style="float: right; margin-left:0px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/StatThinking.jpg" class="img-responsive" width="18%" style="float:right; margin-right:5px;"/>
 
 [Statistical Thinking from Scratch](https://global.oup.com/academic/product/statistical-thinking-from-scratch-9780198827634?cc=us&lang=en&), Oxford University Press 2019
 

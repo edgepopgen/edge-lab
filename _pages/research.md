@@ -8,6 +8,9 @@ permalink: /research/
 
 <h3><b>Research</b></h3>
 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/rosieimg2.jpg" class="img-responsive" width="40%" style="float: right; margin-left:50px;"/>
+
+
 Lab members use mathematical modeling, computational approaches, statistical method development, and data analysis to answer important biological questions. 
 
 One major interest of the lab is the evolution of complex traits---traits that are influenced by many genes, the environment, and their interaction. We consider the role of evolutionary-genetic forces in shaping trait variation and in creating the genotype--phenotype associations detected in genome-wide association studies (GWAS). One goal of this research is to improve methods to detect and interpret trait-associated genetic variation.
