@@ -8,7 +8,7 @@ permalink: /
 
  <center><img src="{{ site.url }}{{ site.baseurl }}/images/edge_lablogo.png" style="width: 450px"></center>
 
- <center><p style="font-size:13.5px">Image designed by<a href="https://www.meraguera.com/"> Rosie Mottsmith</a></p></center>
+
 
 
 <br/>
