@@ -26,9 +26,10 @@ You can read about our lab culture and policies [here]({{site.url}}{{site.baseur
 
 <br>
 <br>
-<br>
 
-<b>Postdoctoral researchers:</b> We are currently hiring postdocs. Remote work is expected during the current COVID-19 pandemic and negotiable afterward. Start date is flexible after August 16th, with earlier dates preferred. If you are interested in a postdoctoral position in the lab, please <a href = "mailto: edgem@usc.edu">send Doc an email</a> briefly describing your past experience and current research interests. Please attach a CV with a list of references, as well as any recent work you’d like to share. 
+<b>Postdoctoral researchers:</b> We are currently recruiting postdocs. Remote work is expected during the current COVID-19 pandemic and negotiable afterward. Start date is flexible after August 16th. Interest areas that would fit particularly well in the lab include the population genetics of complex traits, genetic privacy, and forensic genetics. At the same time, we have broad interests within evolutionary genetics, and other focus areas are possible. Members of groups that have been underrepresented in evolutionary or computational biology are encouraged to apply. If you are interested in a postdoctoral position in the lab, please <a href = "mailto: edgem@usc.edu">send Doc an email</a> describing your past experience and current interests. Please attach a CV with a list of references, as well as any recent work you’d like to share. 
+
+
 
 <b>PhD students:</b> People interested in doing a PhD in the lab should apply to USC’s Computational Biology and Bioinformatics (CBB) program. During the first year of the program, students complete coursework in algorithms, statistics, and biology, and they also complete research rotations in up to three CBB-affiliated labs. Students interested in completing a PhD in the lab should arrange to do one of their rotations with us. CBB admissions are handled by the admissions committee and not by individual labs, but feel free to <a href = "mailto: edgem@usc.edu">contact Doc</a> with questions or statements of interest.
 
