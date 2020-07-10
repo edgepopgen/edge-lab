@@ -19,12 +19,8 @@ We’re glad you’re interested in our research! Our group exists to train peop
 
 Lab members may come from a variety of backgrounds. As part of their work in the lab, lab members write code and/or do math (mostly probability, stochastic processes, calculus, matrix algebra, and statistics). They also analyze genetic datasets. However, one doesn’t need to know how to do all these things upon joining the lab; one of the main goals of time spent in the lab is to learn the relevant skills. 
 
-You can read about our lab culture and policies [here]({{site.url}}{{site.baseurl}}/culture) 
+You can read about our lab culture and policies [here]({{site.url}}{{site.baseurl}}/culture).
 
-
-
-
-<br>
 <br>
 
 <b>Postdoctoral researchers:</b> We are currently recruiting postdocs. Remote work is expected during the current COVID-19 pandemic and negotiable afterward. Start date is flexible after August 16th. Interest areas that would fit particularly well in the lab include the population genetics of complex traits, genetic privacy, and forensic genetics. At the same time, we have broad interests within evolutionary genetics, and other focus areas are possible. Members of groups that have been underrepresented in evolutionary or computational biology are encouraged to apply. If you are interested in a postdoctoral position in the lab, please <a href = "mailto: edgem@usc.edu">send Doc an email</a> describing your past experience and current interests. Please attach a CV with a list of references, as well as any recent work you’d like to share. 
