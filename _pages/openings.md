@@ -15,7 +15,7 @@ permalink: /vacancies
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/collage.jpg" class="img-responsive" width="30%" style="float: right; margin-left:50px;"/>
 
-We’re glad you’re interested in our research! Our group exists to train people to study genetics, especially evolutionary genetics, which is one of the most exciting areas of science---using quantitative approaches. Training in the lab happens primarily via research projects. Trainees carry out original research and present it in the form of publications, software/scripts, talks to scientific audiences, and outreach to diverse audiences and the general public wherever appropriate. 
+We’re glad you’re interested in our research! Our group exists to train people to study genetics---especially evolutionary genetics, which is one of the most exciting areas of science---using quantitative approaches. Training in the lab happens primarily via research projects. Trainees carry out original research and present it in the form of publications, software/scripts, talks to scientific audiences, and outreach to diverse audiences and the general public wherever appropriate. 
 
 Lab members may come from a variety of backgrounds. As part of their work in the lab, lab members write code and/or do math (mostly probability, stochastic processes, calculus, matrix algebra, and statistics). They also analyze genetic datasets. However, one doesn’t need to know how to do all these things upon joining the lab; one of the main goals of time spent in the lab is to learn the relevant skills. 
 
