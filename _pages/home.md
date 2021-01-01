@@ -12,7 +12,7 @@ permalink: /
 
 
 <br/>
-Welcome! We are the Edge lab, a group of researchers studying evolutionary genetics at the University of Southern California (USC). We use math, statistics, and computation to study the sources and consequences of genetic variation. Doc Edge (principal investigator) is part of USC’s Department of Biological Sciences and its Quantitative and Computational Biology (QCB) section, which administers the Computational Biology and Bioinformatics (CBB) graduate program. 
+Welcome! We are the Edge lab, a group of researchers studying evolutionary genetics at the University of Southern California (USC). We use math, statistics, and computation to study the sources and consequences of genetic variation. We are part of USC’s Department of Quantitative and Computational Biology (QCB), which administers the Computational Biology and Bioinformatics (CBB) graduate program. 
 
 
 <br>
