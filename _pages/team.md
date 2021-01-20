@@ -27,6 +27,18 @@ permalink: /team/
 <b>Linda Ding</b>,  graduate student. Linda is a graduate student in Computational Biology and Bioinformatics (CBB). Prior to coming to USC, Linda completed a master’s degree in biostatistics from the University of Michigan and a bachelor’s degree in statistics and psychology from the University of Toronto. Linda is studying statistical methods for understanding the evolution of polygenic traits using inferred ancestral recombination graphs. She also has interests in the genetics of risk for psychiatric conditions.
 </div>
 
+
+<br>
+
+
+
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Obadiah2.1.jpg" class="img-responsive" width="20%" style="float: left" />
+
+<b>Obadiah Mulder</b>, rotation student. Obadiah is a first-year PhD student in the Computational Biology and Biostatistics (CBB) program. Obadiah’s undergraduate degree was in Biology at Green Mountain College, with a focus on Bayesian analytical techniques. He is planning on doing research on biofilm interactions.
+</div>
+
+
 <br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
