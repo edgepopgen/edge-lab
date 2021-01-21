@@ -50,6 +50,14 @@ permalink: /team/
 <br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/DandanPeng.jpeg" class="img-responsive" width="20%" style="float: left" />
+
+<b>Dandan Peng</b>, rotation student. Dandan is a first-year Ph.D. student in Computational Biology and Bioinformatics (CBB). She completed a bachelor's degree in plant protection at China Agricultural University and a master's degree at ETH Zurich. She is interested in population stratification in genome-wide association studies (GWAS).  
+</div>
+
+<br>
+
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/judywang.jpg" class="img-responsive" width="20%" style="float: left" />
 
 <b>Judy Wang</b>, undergraduate.  Judy is an undergraduate student from Tallahassee, Florida majoring in Quantitative Biology and Communication. Judy is interested in evolution and population genetics. She is also interested in studying forensic applications of genetics, such as the CODIS markers and their properties.
