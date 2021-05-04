@@ -27,7 +27,7 @@ We are located on the 4th floor of [Ray R. Irani Hall](https://goo.gl/maps/VnQFq
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/usc.png" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bisc.png" style="width: 150px; margin-left:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Dept_InformalVertical.jpg" style="width: 150px; margin-left:20px;">
 </figure>
 
 
